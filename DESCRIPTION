@@ -12,5 +12,12 @@ LazyData: true
 Depends: 
     R (>= 2.10)
 Imports: 
-    datiInquinanti,datiMeteo,lubridate,purrr,readr,sf,usethis
+    datiInquinanti,
+    datiMeteo,
+    lubridate,
+    purrr,
+    readr,
+    sf,
+    tibble,
+    usethis
 RoxygenNote: 7.2.2
