@@ -1,7 +1,7 @@
 Package: incendiPiemonte
 Type: Package
 Title: Contiene i dati per lo spinoff sugli incendi
-Version: 0.1.1
+Version: 0.1.2
 Author: Raffaele Morelli
 Maintainer: Raffaele Morelli <raffaele.morelli@isprambiente.ti>
 Description: More about what it does (maybe more than one line)
